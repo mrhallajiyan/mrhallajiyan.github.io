@@ -1,1 +1,13 @@
-N. Yassaie, M. Hallajiyan and I. Sharifi, "Resilient Control Strategy for Detection and Mitigation of Disruptions in Microgrids," 2020 28th Iranian Conference on Electrical Engineering (ICEE), Tabriz, Iran, 2020, pp. 1-6, doi: 10.1109/ICEE50131.2020.9260818.
+---
+title: 'Resilient Control Strategy for Detection and Mitigation of Disruptions in Microgrids'
+authors: 'Negar Yassaie, <strong>Mohammadreza Hallajiyan</strong> and Iman Sharifi'
+type: 'conference'
+collection: publications
+permalink: /publication/oya-2013-12-globalsip
+date: 2013-12-03
+year: 2013
+pages: '223-236'
+location: 'Austin, Texas (US)'
+paperurl: ''
+posterurl: ''
+---
