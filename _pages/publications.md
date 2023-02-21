@@ -14,6 +14,6 @@ Yassaie, N., <b>Hallajiyan</b>, M., Sharifi, I., & Talebi, H. A. (2021). &quot;[
 Yassaie, N., <b>Hallajiyan, M.</b>, & Sharifi, I. (2020, August). &quot;[Resilient Control Strategy for Detection and Mitigation of Disruptions in Microgrids](https://ieeexplore.ieee.org/abstract/document/9260818)&quot;. In 2020 28th Iranian Conference on Electrical Engineering (ICEE) (pp. 1-6). IEEE.
 
 
-You can also find my articles on [My Google Scholar Profile]([https://ieeexplore.ieee.org/abstract/document/9737180](https://scholar.google.ca/citations?user=cK23UWEAAAAJ&hl=en&oi=ao)).
+You can also find my articles on [My Google Scholar Profile](https://scholar.google.ca/citations?user=cK23UWEAAAAJ&hl=en&oi=ao).
 
 
